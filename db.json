@@ -1,50 +1,11 @@
-[
-  {
-    "id": 1,
-    "email": "schamberlayne0@weebly.com",
-    "phone": "322-442-0651",
-    "name": "Starlin",
-    "cc_balance": "23.13",
-    "due_date": "6/27/2022",
-    "pin": 2398
-  },
-  {
-    "id": 2,
-    "email": "tbodker1@mapquest.com",
-    "phone": "918500888888",
-    "name": "Tilda",
-    "cc_balance": "321.54",
-    "due_date": "8/26/2022",
-    "pin": 7821
-  },
-  {
-    "id": 3,
-    "email": "jaxcel2@ameblo.jp",
-    "phone": "6582816883",
-    "name": "Julianna",
-    "cc_balance": "81.81",
-    "due_date": "7/16/2022",
-    "pin": 1234,
-    "currency": "$"
-  },
-  {
-    "id": 4,
-    "email": "michael.crump@vonage.com",
-    "phone": "14259999999",
-    "name": "Michael Crump",
-    "cc_balance": "76.31",
-    "delivery_date": "7/16/2022",
-    "pin": "1234",
-    "due_date": "seventh day of every month",
-    "currency": "$"
-  },
-  {
-    "id": 5,
-    "email": "michael.crump@vonage.com",
-    "phone": "14252246702",
-    "name": "Michael Crump",
-    "cc_balance": "889.91",
-    "delivery_date": "7/16/2021",
-    "pin": "1234"
-  }
-]
+{
+  "customers": [
+          {"id":1,"email":"schamberlayne0@weebly.com","phone":"322-442-0651","name":"Starlin","cc_balance":"23.13","due_date":"6/27/2022", "last_digits": 2398},
+          {"id":2,"email":"tbodker1@mapquest.com","phone":"918500888888","name":"Tilda","cc_balance":"321.54","due_date":"8/26/2022", "last_digits": 7821},
+          {"id":3,"email":"jaxcel2@ameblo.jp","phone":"6582816883","name":"Julianna","cc_balance":"81.81","due_date":"7/16/2022", "last_digits": 1234, "currency": "$"},
+          {"id":4,"email":"sreekanth.kolamala@vonage.com","phone":"123456789","name":"Sreekanth Kolamala","cc_balance":"76.31","delivery_date":"7/16/2022", "last_digits": "1234",
+          "due_date": "seventh day of every month", "currency": "$"},
+    {"id":5,"email":"sreekanth.kolamala@vonage.com","phone":"918500878787","name":"Sreekanth Kolamala","cc_balance":"76.31","delivery_date":"7/16/2022", "last_digits": "1234",
+          "due_date": "seventh day of every month", "currency": "$"}
+    ]
+}
