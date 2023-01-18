@@ -5,7 +5,7 @@
           {"id":3,"email":"jaxcel2@ameblo.jp","phone":"6582816883","name":"Julianna","cc_balance":"81.81","due_date":"7/16/2022", "last_digits": 1234, "currency": "$"},
           {"id":4,"email":"sreekanth.kolamala@vonage.com","phone":"123456789","name":"Sreekanth Kolamala","cc_balance":"76.31","delivery_date":"7/16/2022", "last_digits": "1234",
           "due_date": "seventh day of every month", "currency": "$"},
-    {"id":5,"email":"sreekanth.kolamala@vonage.com","phone":"918500878787","name":"Sreekanth Kolamala","cc_balance":"76.31","delivery_date":"7/16/2022", "last_digits": "1234",
+    {"id":5,"email":"masa.miyazawa@vonage.com","phone":"819021664411","name":"Miyazawa","cc_balance":"76.31","delivery_date":"7/16/2022", "last_digits": "1234",
           "due_date": "seventh day of every month", "currency": "$"}
     ]
 }
