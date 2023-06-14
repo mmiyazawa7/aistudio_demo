@@ -6,6 +6,8 @@
           {"id":4,"email":"sreekanth.kolamala@vonage.com","phone":"123456789","name":"Sreekanth Kolamala","cc_balance":"76.31","delivery_date":"7/16/2022", "last_digits": "1234",
           "due_date": "seventh day of every month", "currency": "$"},
         {"id":5,"email":"masa.miyazawa@vonage.com","phone":"819021664411","name":"Miyazawa","cc_balance":"76.31","delivery_date":"7/16/2022", "last_digits": "1234",
+          "due_date": "seventh day of every month", "currency": "$"},
+        {"id":6,"email":"Ryusuke.Tarui@vonage.com","phone":"817045621117","name":"Tarui","cc_balance":"76.31","delivery_date":"7/16/2022", "last_digits": "1234",
           "due_date": "seventh day of every month", "currency": "$"}
     ]
 }
